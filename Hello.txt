@@ -1,0 +1,6 @@
+﻿print('hello world')
+
+print('how do you do')
+
+print('hello')
+
