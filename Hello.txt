@@ -4,5 +4,6 @@ print('how do you do;')
 
 print('hello;')
 
-print("Такие дела;")
+print("Hello, my best friend;")
 
+print("Glad to see you;")
