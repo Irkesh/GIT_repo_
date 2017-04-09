@@ -1,0 +1,6 @@
+print('Goodbye')
+
+print('Houdo')
+
+print('Bye!')
+
